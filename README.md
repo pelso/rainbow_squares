@@ -1,1 +1,1 @@
-# rainbow_squares
+Drawing squares on the canvas with javascript.
